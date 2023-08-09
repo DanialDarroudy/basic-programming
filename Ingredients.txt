@@ -1,0 +1,17 @@
+Flour 10
+Cheese 10
+Meat 10
+Bread 10
+Vegetable 10
+Chicken 10
+Potato 10
+Coffee 10
+Beans 10
+Tea 10
+Chocolate 10
+Soda 10
+IceCream 10
+Egg 10
+Vanilla 10
+Water 10
+Sugar 10
